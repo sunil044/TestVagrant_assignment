@@ -1,0 +1,1 @@
+# TestVagrant_assignment
