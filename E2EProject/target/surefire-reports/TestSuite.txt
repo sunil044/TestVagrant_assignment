@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 16.489 s <<< FAILURE! - in TestSuite
+GetAllBeersBrewedBeforeCertainDate(Academy.ClassOne)  Time elapsed: 7.854 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+	at Academy.ClassOne.GetAllBeersBrewedBeforeCertainDate(ClassOne.java:88)
+
+verifyPagination(Academy.ClassOne)  Time elapsed: 4.028 s  <<< FAILURE!
+java.net.ConnectException: Connection refused: connect
+	at Academy.ClassOne.verifyPagination(ClassOne.java:71)
+
