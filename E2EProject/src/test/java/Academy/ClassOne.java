@@ -7,11 +7,9 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
-import java.util.ArrayList;
 import java.util.Properties;
 
 import io.restassured.RestAssured;
